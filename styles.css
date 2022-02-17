@@ -5,6 +5,12 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.first-p {
+  font-size: 1.25rem;
 }
 
 .image {
