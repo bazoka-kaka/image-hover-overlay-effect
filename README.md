@@ -1,7 +1,7 @@
 # Image Hover Overlay Effect
 
 things to note:
-- transition
+- transition<br>
 we have to use transition to make an animation from normal state to hover state
 
 e.g:
@@ -16,7 +16,7 @@ e.g:
 }
 ```
 
-- wildcard
+- wildcard<br>
 we have to use wildcard selector after the more than symbol 
 to select all the elements inside an element
 
@@ -37,7 +37,7 @@ styles.css:
 note:
 this is gonna select element1 and element2
 
-- image blur
+- image blur<br>
 we have to use backdrop-filter: blur(); to make blurring effect
 
 e.g
